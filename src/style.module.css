@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 3rem;
+    width: 50rem;
+}
+.selected {
+    background-color: silver;
+}
